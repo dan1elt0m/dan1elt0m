@@ -1,7 +1,7 @@
-# Hi there, I'm Daniel! 👋
+# Hi there, I'm Daniël! 👋
 
 🚀 **Data Engineer**  
-💻 **Python | Spark | Databricks | AWS**
+💻 **Python | Spark | Databricks **
 
 ---
 
