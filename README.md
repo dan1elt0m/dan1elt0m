@@ -19,7 +19,7 @@
 
 - **Languages:** Python, SQL, Typescript, Shell
 - **Big Data:** Apache Spark, Databricks
-- **Cloud:** AWS
+- **Cloud:** AWS, Azure, GCP (in that order)
 - **Data Engineering:** Batch / Streaming
 - **Tools:** Git, Docker, Airflow, Kafka, Postgres
 
