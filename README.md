@@ -28,7 +28,3 @@
 ### 📫 Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/daniel-tom-data-engineer)  
-
----
-
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dan1elt0m&show_icons=true&hide_title=true&count_private=true&hide=issues&theme=default)
