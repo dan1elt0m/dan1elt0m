@@ -5,6 +5,4 @@
 
 ---
 
-### 📫 Get in Touch
-
-- [LinkedIn](https://www.linkedin.com/in/daniel-tom-data-engineer)  
+I build because I enjoy it. No stars needed. Thank you
