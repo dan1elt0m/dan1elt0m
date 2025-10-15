@@ -1,4 +1,4 @@
-# Hi there, I'm Daniël! 👋
+# Hi there, I'm Daniël
 
 🚀 **Data Engineer**  
 💻 **Python | Spark | Databricks**
