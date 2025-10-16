@@ -5,4 +5,4 @@
 
 ---
 
-I build because I enjoy it. No stars needed. Thank you
+I build libraries, because I enjoy it
